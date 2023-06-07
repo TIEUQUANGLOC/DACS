@@ -1,0 +1,228 @@
+.icon2-13 {
+  left: calc(50% - 625px);
+  width: 463px;
+  z-index: 0;
+}
+.icon-13,
+.icon2-13,
+.icon3-13 {
+  position: absolute;
+  margin: 0 !important;
+  top: 26px;
+  height: 84px;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.icon-13 {
+  left: calc(50% - 11px);
+  border-radius: var(--br-2xs);
+  width: 85px;
+  z-index: 1;
+}
+.icon3-13 {
+  left: calc(50% + 115px);
+  width: 516px;
+  z-index: 2;
+}
+.icon2-1-parent1 {
+  top: 0;
+  border-radius: var(--br-3xs);
+  border-bottom: 2px solid var(--color-rosybrown);
+  box-sizing: border-box;
+  height: 129px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-16xl) var(--padding-141xl);
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-sm);
+}
+.footer7,
+.icon2-1-parent1,
+.tuyn-sinh-child {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.tuyn-sinh-child {
+  top: 129px;
+  border-radius: var(--br-3xs);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-bottom: 2px solid var(--color-rosybrown);
+  box-sizing: border-box;
+  height: 72px;
+}
+.footer7 {
+  top: 0;
+  background-color: var(--color-forestgreen);
+  height: 283px;
+}
+.khoa-cng-ngh-container7 {
+  line-break: anywhere;
+  width: 100%;
+}
+.khoa-cng-ngh-container6 {
+  position: absolute;
+  top: 86px;
+  left: 285px;
+  display: flex;
+  align-items: center;
+  width: 397px;
+  height: 91px;
+}
+.icon-53 {
+  position: absolute;
+  top: 72px;
+  left: 132px;
+  border-radius: var(--br-93xl-5);
+  width: 126px;
+  height: 126px;
+  object-fit: cover;
+}
+.span3 {
+  text-decoration: underline;
+}
+.thng-tin-lin-container6 {
+  position: absolute;
+  top: 83px;
+  left: 791px;
+  font-size: var(--font-size-xl);
+  display: flex;
+  color: var(--font-inherit);
+  text-align: left;
+  align-items: center;
+  width: 546px;
+  height: 120px;
+}
+.footer6 {
+  position: absolute;
+  top: 3863px;
+  left: 0;
+  width: 1440px;
+  height: 283px;
+}
+.image-6-icon,
+.image-7-icon {
+  position: absolute;
+  top: 1415px;
+  left: 302px;
+  width: 830px;
+  height: 1176px;
+  object-fit: cover;
+}
+.image-7-icon {
+  top: 270px;
+  height: 1145px;
+}
+.h-s-kxt {
+  margin: 0;
+}
+.httpsdlueduvnbieu-mau-ts {
+  color: inherit;
+}
+.h-s-kxt-container {
+  position: absolute;
+  top: 2658px;
+  left: 221px;
+  font-size: 22px;
+  display: flex;
+  color: var(--font-inherit);
+  text-align: left;
+  align-items: center;
+  width: 1061px;
+  height: 1174px;
+}
+.trang-ch21 {
+  position: relative;
+  opacity: 0.8;
+}
+.trang-ch-wrapper18,
+.trang-ch-wrapper19,
+.trang-ch-wrapper20,
+.trang-ch-wrapper21,
+.trang-ch-wrapper22,
+.trang-ch-wrapper23,
+.trang-ch-wrapper24 {
+  position: absolute;
+  height: 99.96%;
+  width: 15.3%;
+  top: 0.04%;
+  right: 38.81%;
+  bottom: 0;
+  left: 45.89%;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.trang-ch-wrapper19,
+.trang-ch-wrapper20,
+.trang-ch-wrapper21,
+.trang-ch-wrapper22,
+.trang-ch-wrapper23,
+.trang-ch-wrapper24 {
+  width: 11.92%;
+  right: 13.45%;
+  left: 74.64%;
+}
+.trang-ch-wrapper20,
+.trang-ch-wrapper21,
+.trang-ch-wrapper22,
+.trang-ch-wrapper23,
+.trang-ch-wrapper24 {
+  width: 13.69%;
+  top: 0;
+  right: 0;
+  bottom: 0.04%;
+  left: 86.31%;
+}
+.trang-ch-wrapper21,
+.trang-ch-wrapper22,
+.trang-ch-wrapper23,
+.trang-ch-wrapper24 {
+  width: 13.45%;
+  top: 0.04%;
+  right: 25.36%;
+  bottom: 0;
+  left: 61.19%;
+}
+.trang-ch-wrapper22,
+.trang-ch-wrapper23,
+.trang-ch-wrapper24 {
+  width: 15.3%;
+  right: 54.11%;
+  left: 30.6%;
+}
+.trang-ch-wrapper23,
+.trang-ch-wrapper24 {
+  right: 69.4%;
+  left: 15.3%;
+}
+.trang-ch-wrapper24 {
+  top: 0;
+  right: 84.7%;
+  bottom: 0.04%;
+  left: 0;
+}
+.navbar3 {
+  position: absolute;
+  top: 129px;
+  left: 88px;
+  width: 1242px;
+  height: 69.03px;
+  color: var(--color-black);
+}
+.tuyn-sinh {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4146px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
